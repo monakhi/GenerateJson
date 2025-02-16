@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Design Homepage UI",
+    "description": "Create a responsive homepage layout using Vuetify.",
+    "due_date": "2025-03-14",
+    "status": "On Hold"
+  },
+  {
+    "title": "Fix Login Bug",
+    "description": "Resolve issue where users cannot log in with special characters in passwords.",
+    "due_date": "2025-02-17",
+    "status": "Pending"
+  },
+  {
+    "title": "API Documentation",
+    "description": "Write OpenAPI documentation for the user authentication API.",
+    "due_date": "2025-03-16",
+    "status": "Pending"
+  },
+  {
+    "title": "Database Optimization",
+    "description": "Optimize database queries to reduce API response time.",
+    "due_date": "2025-02-19",
+    "status": "Completed"
+  },
+  {
+    "title": "Unit Testing for Task API",
+    "description": "Write Jest tests for task creation and deletion APIs.",
+    "due_date": "2025-03-12",
+    "status": "On Hold"
+  },
+  {
+    "title": "Refactor Vue Components",
+    "description": "Refactor large Vue components into smaller reusable components.",
+    "due_date": "2025-02-21",
+    "status": "Pending"
+  },
+  {
+    "title": "Deploy to AWS",
+    "description": "Deploy the frontend and backend services to AWS EC2 and S3.",
+    "due_date": "2025-03-02",
+    "status": "In Progress"
+  },
+  {
+    "title": "Dark Mode Implementation",
+    "description": "Add a dark mode theme toggle to the application.",
+    "due_date": "2025-03-03",
+    "status": "Completed"
+  },
+  {
+    "title": "User Role Management",
+    "description": "Implement role-based access control (RBAC) for admin and users.",
+    "due_date": "2025-03-08",
+    "status": "On Hold"
+  },
+  {
+    "title": "Performance Optimization",
+    "description": "Optimize frontend performance by lazy-loading heavy components.",
+    "due_date": "2025-02-20",
+    "status": "Pending"
+  },
+  {
+    "title": "Security Audit",
+    "description": "Conduct a security audit and fix vulnerabilities.",
+    "due_date": "2025-03-13",
+    "status": "Completed"
+  },
+  {
+    "title": "Optimize Image Loading",
+    "description": "Optimize image loading and implement lazy loading.",
+    "due_date": "2025-02-28",
+    "status": "In Progress"
+  },
+  {
+    "title": "Set Up CI/CD Pipeline",
+    "description": "Set up automated CI/CD pipeline with GitHub Actions.",
+    "due_date": "2025-03-12",
+    "status": "Pending"
+  },
+  {
+    "title": "Bug Fix: Payment Processing",
+    "description": "Fix bug causing incorrect payment processing.",
+    "due_date": "2025-03-01",
+    "status": "On Hold"
+  },
+  {
+    "title": "Add Graphs to Dashboard",
+    "description": "Add interactive charts to the analytics dashboard.",
+    "due_date": "2025-03-17",
+    "status": "Pending"
+  },
+  {
+    "title": "Improve Error Handling",
+    "description": "Improve error handling with better logging and notifications.",
+    "due_date": "2025-03-08",
+    "status": "Completed"
+  },
+  {
+    "title": "Accessibility Enhancements",
+    "description": "Enhance accessibility compliance with WCAG guidelines.",
+    "due_date": "2025-03-04",
+    "status": "Completed"
+  },
+  {
+    "title": "Add Multi-language Support",
+    "description": "Implement multi-language support for global users.",
+    "due_date": "2025-03-03",
+    "status": "Pending"
+  },
+  {
+    "title": "Update Dependencies",
+    "description": "Update outdated dependencies and remove unused libraries.",
+    "due_date": "2025-03-16",
+    "status": "On Hold"
+  },
+  {
+    "title": "Mobile App UI Enhancements",
+    "description": "Improve mobile responsiveness and optimize UI components.",
+    "due_date": "2025-02-25",
+    "status": "On Hold"
+  }
+]
