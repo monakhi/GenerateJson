@@ -3,140 +3,140 @@
     "id": 1,
     "title": "Design Homepage UI",
     "description": "Create a responsive homepage layout using Vuetify.",
-    "duedate": "2025-03-14",
+    "dueDate": "2025-03-14",
     "status": "On Hold"
   },
   {
     "id": 2,
     "title": "Fix Login Bug",
     "description": "Resolve issue where users cannot log in with special characters in passwords.",
-    "duedate": "2025-02-17",
+    "dueDate": "2025-02-17",
     "status": "Pending"
   },
   {
     "id": 3,
     "title": "API Documentation",
     "description": "Write OpenAPI documentation for the user authentication API.",
-    "duedate": "2025-03-16",
+    "dueDate": "2025-03-16",
     "status": "Pending"
   },
   {
     "id": 4,
     "title": "Database Optimization",
     "description": "Optimize database queries to reduce API response time.",
-    "duedate": "2025-02-19",
+    "dueDate": "2025-02-19",
     "status": "Completed"
   },
   {
     "id": 5,
     "title": "Unit Testing for Task API",
     "description": "Write Jest tests for task creation and deletion APIs.",
-    "duedate": "2025-03-12",
+    "dueDate": "2025-03-12",
     "status": "On Hold"
   },
   {
     "id": 6,
     "title": "Refactor Vue Components",
     "description": "Refactor large Vue components into smaller reusable components.",
-    "duedate": "2025-02-21",
+    "dueDate": "2025-02-21",
     "status": "Pending"
   },
   {
     "id": 7,
     "title": "Deploy to AWS",
     "description": "Deploy the frontend and backend services to AWS EC2 and S3.",
-    "duedate": "2025-03-02",
+    "dueDate": "2025-03-02",
     "status": "In Progress"
   },
   {
     "id": 8,
     "title": "Dark Mode Implementation",
     "description": "Add a dark mode theme toggle to the application.",
-    "duedate": "2025-03-03",
+    "dueDate": "2025-03-03",
     "status": "Completed"
   },
   {
     "id": 9,
     "title": "User Role Management",
     "description": "Implement role-based access control (RBAC) for admin and users.",
-    "duedate": "2025-03-08",
+    "dueDate": "2025-03-08",
     "status": "On Hold"
   },
   {
     "id": 10,
     "title": "Performance Optimization",
     "description": "Optimize frontend performance by lazy-loading heavy components.",
-    "duedate": "2025-02-20",
+    "dueDate": "2025-02-20",
     "status": "Pending"
   },
   {
     "id": 11,
     "title": "Security Audit",
     "description": "Conduct a security audit and fix vulnerabilities.",
-    "duedate": "2025-03-13",
+    "dueDate": "2025-03-13",
     "status": "Completed"
   },
   {
     "id": 12,
     "title": "Optimize Image Loading",
     "description": "Optimize image loading and implement lazy loading.",
-    "duedate": "2025-02-28",
+    "dueDate": "2025-02-28",
     "status": "In Progress"
   },
   {
     "id": 13,
     "title": "Set Up CI/CD Pipeline",
     "description": "Set up automated CI/CD pipeline with GitHub Actions.",
-    "duedate": "2025-03-12",
+    "dueDate": "2025-03-12",
     "status": "Pending"
   },
   {
     "id": 14,
     "title": "Bug Fix: Payment Processing",
     "description": "Fix bug causing incorrect payment processing.",
-    "duedate": "2025-03-01",
+    "dueDate": "2025-03-01",
     "status": "On Hold"
   },
   {
     "id": 15,
     "title": "Add Graphs to Dashboard",
     "description": "Add interactive charts to the analytics dashboard.",
-    "duedate": "2025-03-17",
+    "dueDate": "2025-03-17",
     "status": "Pending"
   },
   {
     "id": 16,
     "title": "Improve Error Handling",
     "description": "Improve error handling with better logging and notifications.",
-    "duedate": "2025-03-08",
+    "dueDate": "2025-03-08",
     "status": "Completed"
   },
   {
     "id": 17,
     "title": "Accessibility Enhancements",
     "description": "Enhance accessibility compliance with WCAG guidelines.",
-    "duedate": "2025-03-04",
+    "dueDate": "2025-03-04",
     "status": "Completed"
   },
   {
     "id": 18,
     "title": "Add Multi-language Support",
     "description": "Implement multi-language support for global users.",
-    "duedate": "2025-03-03",
+    "dueDate": "2025-03-03",
     "status": "Pending"
   },
   {
     "id": 19,
     "title": "Update Dependencies",
     "description": "Update outdated dependencies and remove unused libraries.",
-    "duedate": "2025-03-16",
+    "dueDate": "2025-03-16",
     "status": "On Hold"
   },
   {
     "id": 20,
     "title": "Mobile App UI Enhancements",
     "description": "Improve mobile responsiveness and optimize UI components.",
-    "duedate": "2025-02-25",
+    "dueDate": "2025-02-25",
     "status": "On Hold"
   }
 ]
